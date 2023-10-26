@@ -1,2 +1,2 @@
 # exp-world
-landing page
+Landing page for the users of the game
